@@ -36,6 +36,7 @@ colorscheme molokai
 
 set number
 set hlsearch
+set cursorline
 set fdm=indent
 set fdc=4
 set fdl=1
